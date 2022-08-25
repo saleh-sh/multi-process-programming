@@ -1,5 +1,5 @@
 # multi-process-programming
-this is a multi-process program written in C language.
+This is a multi-process program written in C language.
 you have to run the project on linux OS.
 the project contains four process which interact each other using named pipe.
 you can compile the program using command bellow
